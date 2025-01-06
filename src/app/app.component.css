@@ -1,0 +1,9 @@
+.processed-label {
+  font-weight: bold;
+  color: #007bff; /* Bootstrap's primary color */
+}
+
+textarea {
+  font-family: monospace;
+  resize: none; /* Prevent resizing to maintain layout consistency */
+}
